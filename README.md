@@ -1,4 +1,4 @@
-# NodeJS with NPM use
+# NodeJS - Files Operations
 ###### - Install [**Node.js**](https://nodejs.org/en/download/)
 
 ###### - Open a command line window (Windows) or a terminal window (Mac & Linux) 
